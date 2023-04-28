@@ -5,3 +5,17 @@ k
 ;src/test/java/org/example/YouTubeSearchResultsPageTest.java,c/7/c7aeead041ea4277515b05e359cf03dc437420ac
 g
 7src/main/java/org/example/YouTubeSearchResultsPage.java,8/9/8966e9fa2276b14dc86b84d40900a065f75939ca
+e
+5src/main/java/org/example/YouTubeVideoPlayerPage.java,0/c/0c3c64f82faaebf439e280af68dce0c2eb57b618
+b
+2src/test/java/org/example/YouTubeHomePageTest.java,8/c/8ca6da2f90868d238981267bb83de7aa65ba4ed0
+w
+G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482
+Å
+Q.idea/sonarlint/securityhotspotstore/8/9/8966e9fa2276b14dc86b84d40900a065f75939ca,2/0/20f59609f8436cd3629e4b33423111e97d2af74a
+Å
+Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2/c/2cabb939da04d3de3a200bf2b575690e1a16316d
+Å
+Q.idea/sonarlint/securityhotspotstore/c/7/c7aeead041ea4277515b05e359cf03dc437420ac,7/9/796e8f0c50709a8f2b9ee7a3b4f62c457a728b55
+w
+G.idea/sonarlint/issuestore/8/9/8966e9fa2276b14dc86b84d40900a065f75939ca,1/e/1e0747377b588fd3caed69c7d72873ed65af5558
