@@ -35,7 +35,6 @@ public class YouTubeHomePage {
         private By passwordNextButton = By.xpath("//*[@id=\"passwordNext\"]/div/button/span");
 
         public YouTubeLoginPage(ChromeDriver driver) {
-
         }
 
         // Page methods
