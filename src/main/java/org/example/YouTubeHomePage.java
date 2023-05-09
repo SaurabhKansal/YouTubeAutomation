@@ -45,7 +45,7 @@ public class YouTubeHomePage {
         public void clickEmailNextButton() {
             driver.findElement(emailNextButton).click();
         }
-
+        public void clearEmail() {driver.findElement(emailInput).clear();}
         public void enterPassword(String password) {
             driver.findElement(passwordInput).sendKeys(password);
         }

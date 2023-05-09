@@ -12,7 +12,7 @@ public class YouTubeVideoPlayerPage {
         this.driver = driver;
     }
     private By addToButton = By.xpath("//*[@id=\"button-shape\"]/button/yt-touch-feedback-shape/div/div[2]");
-    private By createPlaylistOption = By.xpath("//*[@id=\"items\"]/ytd-menu-service-item-renderer[1]/tp-yt-paper-item/yt-icon");
+    private By createPlaylistOption = By.xpath("//*[@id=\"items\"]/ytd-menu-service-item-renderer[2]/tp-yt-paper-item/yt-icon");
 
     private By createNewPlaylistButton = By.xpath("//*[@id=\"content-icon\"]/yt-icon");
     private By playlistNameInput = By.xpath("//*[@id=\"input-1\"]/input");

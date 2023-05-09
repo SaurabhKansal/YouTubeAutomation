@@ -13,7 +13,7 @@ public class YouTubeSearchResultsPageTest extends TestBase {
         searchResultsPage = new YouTubeSearchResultsPage(driver);
 
         // Search for a query and click on the first video
-        searchResultsPage.enterSearchQuery("nacho nacho");
+        searchResultsPage.enterSearchQuery("selenium");
         searchResultsPage.clickSearchButton();
         Thread.sleep(2000);
         searchResultsPage.clickFirstVideo();

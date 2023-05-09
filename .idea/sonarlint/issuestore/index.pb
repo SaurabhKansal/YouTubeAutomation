@@ -1,14 +1,6 @@
 
-w
-G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482
-Å
-Q.idea/sonarlint/securityhotspotstore/8/9/8966e9fa2276b14dc86b84d40900a065f75939ca,2/0/20f59609f8436cd3629e4b33423111e97d2af74a
-Å
-Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2/c/2cabb939da04d3de3a200bf2b575690e1a16316d
 Å
 Q.idea/sonarlint/securityhotspotstore/c/7/c7aeead041ea4277515b05e359cf03dc437420ac,7/9/796e8f0c50709a8f2b9ee7a3b4f62c457a728b55
-w
-G.idea/sonarlint/issuestore/8/9/8966e9fa2276b14dc86b84d40900a065f75939ca,1/e/1e0747377b588fd3caed69c7d72873ed65af5558
 w
 G.idea/sonarlint/issuestore/1/e/1e0747377b588fd3caed69c7d72873ed65af5558,f/d/fd080ca36d6d0941ba69b91a41dd59ca661b92ee
 Å
@@ -26,8 +18,6 @@ Q.idea/sonarlint/securityhotspotstore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba763464
 w
 G.idea/sonarlint/issuestore/8/6/863e0292fd7e9b3e74dafd6cc01f73ba76346482,3/0/30f9777ea696a18aa49d3e9967e93a4276065227
 Å
-Q.idea/sonarlint/securityhotspotstore/0/c/0c3c64f82faaebf439e280af68dce0c2eb57b618,1/8/181e3a00846fc768165a44a4f0cf080def91fb10
-Å
 Q.idea/sonarlint/securityhotspotstore/8/c/8ca6da2f90868d238981267bb83de7aa65ba4ed0,c/5/c50db180b435997e6e5775f2fe54783fa6930a51
 Å
 Q.idea/sonarlint/securityhotspotstore/2/0/20f59609f8436cd3629e4b33423111e97d2af74a,3/0/300e99715de7094a04aada4c77cbdd9aa0696536
@@ -37,12 +27,6 @@ a
 1src/main/java/org/example/RenamePlaylistPage.java,3/a/3a644ff3b5d778bb905ee7747e69a5b5f7c25503
 a
 1src/main/java/org/example/DeletePlaylistPage.java,6/c/6ca0782bb1b5ec6ab8b447da660969232dec280d
-W
-'src/test/java/org/example/TestBase.java,c/6/c63cffffac75da830e3c403f9f44ab1b9d4fe4e3
-e
-5src/main/java/org/example/YouTubeVideoPlayerPage.java,0/c/0c3c64f82faaebf439e280af68dce0c2eb57b618
-g
-7src/main/java/org/example/YouTubeSearchResultsPage.java,8/9/8966e9fa2276b14dc86b84d40900a065f75939ca
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 V
@@ -109,22 +93,10 @@ w
 G.idea/sonarlint/issuestore/f/6/f6d8310b47b1802ff534ff6900f24d2d3b76c4f1,e/f/ef9105f2834253bdeb8266cbd4c01070bf563187
 w
 G.idea/sonarlint/issuestore/f/d/fd080ca36d6d0941ba69b91a41dd59ca661b92ee,7/1/7155d332bd2048cd6c1a8f446dfc58aea3a6a290
-e
-5src/test/java/org/example/RenamePlaylistPageTest.java,a/3/a30a7fd49155939e612b39df9fc34cafe6435b92
-e
-5src/test/java/org/example/DeletePlaylistPageTest.java,7/c/7c72adfcd13b50196494aebba3b5097111ca54c4
-i
-9src/test/java/org/example/YouTubeVideoPlayerPageTest.java,5/3/530113a9620acaa46a1af80b093649de7d7c2dc0
-k
-;src/test/java/org/example/YouTubeSearchResultsPageTest.java,c/7/c7aeead041ea4277515b05e359cf03dc437420ac
-]
--src/test/java/org/example/LogoutPageTest.java,8/b/8b770b625fba6e9c999f228eb0f3c1f29a9dfe81
-Y
-)src/main/java/org/example/LogoutPage.java,1/1/116dbd1267d524c7bfea4e663d2d3072610f2206
-b
-2src/test/java/org/example/YouTubeHomePageTest.java,8/c/8ca6da2f90868d238981267bb83de7aa65ba4ed0
-^
-.src/main/java/org/example/YouTubeHomePage.java,b/7/b7572f5ef16fb2b117e8d18a72e9b339a7d6d240
 :
 
 testng.xml,5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022
+g
+7src/main/java/org/example/YouTubeSearchResultsPage.java,8/9/8966e9fa2276b14dc86b84d40900a065f75939ca
+W
+'src/test/java/org/example/TestBase.java,c/6/c63cffffac75da830e3c403f9f44ab1b9d4fe4e3
